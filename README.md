@@ -1,21 +1,20 @@
 # AI---
 
-安装时执行：
+Codex安装
+```text
+请帮我安装这个 GitHub 仓库里的 Canvas Hand 插件：
+https://github.com/3410467429-wq/AI---
 
-```powershell
-git clone https://github.com/你的用户名/你的仓库名.git
-cd 你的仓库名
-Set-ExecutionPolicy -Scope Process Bypass
-.\scripts\Install-CanvasHand-Windows.ps1
+要求：
+1. 克隆仓库
+2. 运行 scripts/Install-CanvasHand-Windows.ps1
+3. 安装完成后启动画布服务
+4. 打开 http://127.0.0.1:8000/
 ```
 
-然后重启 Codex，在 Codex 里说：
+重启 Codex，在 Codex 里说：
 
 ```text
 Open my canvas
 ```
-然后浏览器打开：
-
-```text
-http://127.0.0.1:8000/
-```
+后面可以正常使用
