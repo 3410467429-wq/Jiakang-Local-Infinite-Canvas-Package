@@ -1,4 +1,3 @@
-# AI---
 # Canvas Hand Portable
 
 Canvas Hand Portable 是一个可迁移的本地无限画布包，适合在 Codex 中进行图片生成、图片标注和基于箭头批注的图片重绘。
